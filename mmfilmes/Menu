@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR white][B]Lançamentos[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/TRr7sjg.png</thumbnail>
-<externallink>https://gitlab.com/mx10/Filmes/-/raw/master/mmfilmes/Lancamentos</externallink>
+<externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/mmfilmes/Lancamentos</externallink>
 <fanart></fanart>
 <info>FILMES</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>[COLOR white][B]Ação[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/CiDu6rc.png</thumbnail>
-<externallink>https://gitlab.com/mx10/Filmes/-/raw/master/mmfilmes/Acao</externallink>
+<externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/mmfilmes/Acao</externallink>
 <fanart></fanart>
 <info>FILMES</info>
 </channel>
