@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR white][B]Lançamentos[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/TRr7sjg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Lancamentos</externallink>
+<externallink></externallink>
 <fanart></fanart>
 <info>FILMES</info>
 </channel>
@@ -68,14 +68,6 @@
 <name>[COLOR white][B]Ficção[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/NusI3yN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Ficcao</externallink>
-<fanart></fanart>
-<info>FILMES</info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Romance[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/mKgnmjP.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Romance</externallink>
 <fanart></fanart>
 <info>FILMES</info>
 </channel>
