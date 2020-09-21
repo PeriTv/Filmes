@@ -65,6 +65,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Gospel[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/HZRaKYW.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Gospel</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Ficção[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/NusI3yN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Ficcao</externallink>
