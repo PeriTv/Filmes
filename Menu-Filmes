@@ -1,11 +1,19 @@
 <channels>
 </channels>
 <channel>
+<name>[COLOR white][B]FILMES EM TORRENT[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/HUl152O.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Lancamentos</externallink>
+<fanart></fanart>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Lançamentos[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/TRr7sjg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Lancamentos</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -13,7 +21,7 @@
 <thumbnail>https://i.imgur.com/CiDu6rc.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Acao</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -21,7 +29,7 @@
 <thumbnail>https://i.imgur.com/MY4GDxY.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Animacao</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -29,7 +37,7 @@
 <thumbnail>https://i.imgur.com/dpyfavF.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Aventura</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -37,7 +45,7 @@
 <thumbnail>https://i.imgur.com/1VSLmmA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Comedia</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -45,7 +53,7 @@
 <thumbnail>https://i.imgur.com/TIh9WHV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Drama</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -53,7 +61,7 @@
 <thumbnail>https://i.imgur.com/AbKbsRj.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Fantasia</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -61,7 +69,7 @@
 <thumbnail>https://i.imgur.com/x9wrC16.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Faroeste</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -69,7 +77,7 @@
 <thumbnail>https://i.imgur.com/HZRaKYW.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Gospel</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -77,7 +85,7 @@
 <thumbnail>https://i.imgur.com/NusI3yN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Ficcao</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -85,7 +93,7 @@
 <thumbnail>https://i.imgur.com/MNhe1Cq.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Suspense</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
@@ -93,5 +101,5 @@
 <thumbnail>https://i.imgur.com/rZOv1tz.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Terror</externallink>
 <fanart></fanart>
-<info>FILMES</info>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
