@@ -66,15 +66,23 @@
 
 <channel>
 <name>[COLOR white][B]Faroeste[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/x9wrC16.png</thumbnail>
+<thumbnail>https://i.imgur.com/wvpbOTp.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Faroeste</externallink>
 <fanart></fanart>
 <info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
 </channel>
 
 <channel>
+<name>[COLOR white][B]Nacional[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/3PnlQxn.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Nacional</externallink>
+<fanart></fanart>
+<info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Gospel[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/HZRaKYW.png</thumbnail>
+<thumbnail>https://i.imgur.com/Z4BGqkr.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tv-fogohd/Filmes/master/Gospel</externallink>
 <fanart></fanart>
 <info>INSTALE O ELEMENTUM E CONFIGURE ELE PARA ASSISTIR OS FILMES</info>
